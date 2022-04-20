@@ -13,5 +13,5 @@
 - 👨🏻‍🎨 Founder of [**WEFUZZ**](https://wefuzz.io)
 - 🧑🏻‍💼 If you want to talk business: [chaitanya-rk](https://www.linkedin.com/in/chaitanya-rk)
 - 🌍 I'm mostly active on twitter: [ant4g0nist](https://twitter.com/ant4g0nist)
-- 🌱 Learning all about things **program analysis**, **blockchain** and **blockchain security**
+- 🌱 Learning all things **program analysis**, **blockchain** and **blockchain security**
 - 💬 Ping me about **vulnerability research**, **fuzzing**, **blockchain**, **development**, **new things to build**, **program analysis**
