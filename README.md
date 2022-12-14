@@ -4,14 +4,18 @@
 
 ##### Some Interesting Projects I built
 
-- [Lisa](https://github.com/ant4g0nist/lisa.py), 
-- [ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer)
-- [Sloth](https://github.com/ant4g0nist/Sloth)
-- [Chinstrap](https://github.com/ant4g0nist/chinstrap)
-- [Rudroid](https://github.com/ant4g0nist/Rudroid)
-- [Polar](https://github.com/ant4g0nist/Polar)
+- [Lisa - An Exploit Dev Swiss Army Knife](https://github.com/ant4g0nist/lisa.py)
+- [ManuFuzzer - Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM](https://github.com/ant4g0nist/ManuFuzzer)
+- [Sloth - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation](https://github.com/ant4g0nist/Sloth)
+- [Rudroid - Rudroid - Writing the World's worst Android Emulator in Rust 🦀](https://github.com/ant4g0nist/Rudroid)
+- [Polar - A LLDB plugin which queries OpenAI's davinci-003 language model to explain the disassembly](https://github.com/ant4g0nist/Polar)
+- [Chinstrap - A development environment, testing framework, and origination pipeline focused solely on Tezos](https://github.com/ant4g0nist/chinstrap)
+- [Crashmon - A LLDB Based replacement for CrashWrangler](https://github.com/ant4g0nist/crashmon)
+- [Susanoo - A REST API security testing framework](https://github.com/ant4g0nist/Susanoo)
+- [/fuzzing-pdfs-like-its-1990s](https://github.com/ant4g0nist/fuzzing-pdfs-like-its-1990s)
+- [A "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation](https://github.com/ant4g0nist/Vulnerable-Kext)
 
-##### BIO
+##### Bio
 
 - 👨🏻‍🎨 Founder of [**WEFUZZ**](https://wefuzz.io)
 - 🧑🏻‍💼 If you want to talk business: [chaitanya-rk](https://www.linkedin.com/in/chaitanya-rk)
