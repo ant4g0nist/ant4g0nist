@@ -2,11 +2,14 @@
 
 #### I'm a vulnerability researcher, engineer, and buidler living in Amsterdam, Netherlands.
 
-##### NOW
+##### Some Interesting Projects I built
 
-- ✨ Creator and developer of [Lisa](https://github.com/ant4g0nist/lisa.py), [ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer), [Sloth](https://github.com/ant4g0nist/Sloth), [Chinstrap](https://github.com/ant4g0nist/chinstrap), [Rudroid](https://github.com/ant4g0nist/Rudroid)
-- 🇮🇸 In love with Iceland ❤️
-- 📸 I travel and post pics on [instagram](https://instagram.com/ant4g0nist)
+- [Lisa](https://github.com/ant4g0nist/lisa.py), 
+- [ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer)
+- [Sloth](https://github.com/ant4g0nist/Sloth)
+- [Chinstrap](https://github.com/ant4g0nist/chinstrap)
+- [Rudroid](https://github.com/ant4g0nist/Rudroid)
+- [Polar](https://github.com/ant4g0nist/Polar)
 
 ##### BIO
 
