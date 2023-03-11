@@ -12,7 +12,8 @@
 - [Chinstrap - A development environment, testing framework, and origination pipeline focused solely on Tezos](https://github.com/ant4g0nist/chinstrap)
 - [Crashmon - A LLDB Based replacement for CrashWrangler](https://github.com/ant4g0nist/crashmon)
 - [Susanoo - A REST API security testing framework](https://github.com/ant4g0nist/Susanoo)
-- [/fuzzing-pdfs-like-its-1990s](https://github.com/ant4g0nist/fuzzing-pdfs-like-its-1990s)
+- [Fuzzing PDFs like its 1990s](https://github.com/ant4g0nist/fuzzing-pdfs-like-its-1990s)
+- [WebGL fuzzer based on IDLs](https://github.com/ant4g0nist/webgl-fuzzer)
 - [A "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation](https://github.com/ant4g0nist/Vulnerable-Kext)
 
 ##### Bio
