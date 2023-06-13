@@ -8,6 +8,7 @@
 - [ManuFuzzer - Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM](https://github.com/ant4g0nist/ManuFuzzer)
 - [Sloth - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation](https://github.com/ant4g0nist/Sloth)
 - [Rudroid - Writing the World's worst Android Emulator in Rust 🦀](https://github.com/ant4g0nist/Rudroid)
+- [RetDec Decompiler Plugin for LLDB](https://github.com/ant4g0nist/decompiler)
 - [Polar - A LLDB plugin which queries OpenAI's davinci-003 language model to explain the disassembly](https://github.com/ant4g0nist/Polar)
 - [Chinstrap - A development environment, testing framework, and origination pipeline focused solely on Tezos](https://github.com/ant4g0nist/chinstrap)
 - [Crashmon - A LLDB Based replacement for CrashWrangler](https://github.com/ant4g0nist/crashmon)
