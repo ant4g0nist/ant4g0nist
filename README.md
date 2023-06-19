@@ -19,7 +19,7 @@
 
 ##### Bio
 
-- 👨🏻‍🎨 Founder of [**WeFuzz**](https://wefuzz.io)
+- 👨🏻‍🎨 Founder of [**Yōkai**](https://wefuzz.yokai_network)
 - 🧑🏻‍💼 If you want to talk business: [chaitanya-rk](https://www.linkedin.com/in/chaitanya-rk)
 - 🌍 I'm mostly active on twitter: [ant4g0nist](https://twitter.com/ant4g0nist)
 - 🌱 Learning all things **program analysis**, **blockchain** and **blockchain security**
