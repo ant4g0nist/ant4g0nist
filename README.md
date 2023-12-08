@@ -16,6 +16,7 @@
 - [Fuzzing PDFs like its 1990s](https://github.com/ant4g0nist/fuzzing-pdfs-like-its-1990s)
 - [WebGL fuzzer based on IDLs](https://github.com/ant4g0nist/webgl-fuzzer)
 - [A "Vulnerable by Design" kext for iOS/macOS to play & learn *OS kernel exploitation](https://github.com/ant4g0nist/Vulnerable-Kext)
+- [Multiversity: resource hub for Hackers and Developers involved in various Blockchains](https://www.0xversity.com/)
 
 ##### Bio
 
